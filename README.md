@@ -14,12 +14,12 @@
 | Project | Description |
 |---------|-------------|
 | **Libft** | Custom C library including `ft_printf` and `get_next_line`. |
-| **Push_Swap** | Sorting algorithm project with stacks and limited operations. |
-| **Fract-ol** | Fractal renderer using MLX42, visualizing Julia and Mandelbrot sets. |
+| **Push_Swap** | Sorting algorithm in C with stacks and limited operations. |
+| **Fract-ol** | Fractal renderer in C using MLX42, visualizing Julia and Mandelbrot sets. |
 | **Minishell** | Simple shell implementation in C, supporting pipelines, redirections, and builtins. |
-| **Philosophers** | Dining philosophers problem with threads and process management. |
-| **Cub3D** | 3D game engine using raycasting and MLX42. |
-| **ft_irc** | Simple IRC server and client in C, handling channels, messages, and basic IRC commands. |
+| **Philosophers** | Dining philosophers problem with threads and process management in C. |
+| **Cub3D** | 3D game engine in C using raycasting and MLX42. |
+| **ft_irc** | Simple IRC server and client in C++, handling channels, messages, and basic IRC commands. |
 
 
 ---

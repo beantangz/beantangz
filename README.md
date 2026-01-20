@@ -28,6 +28,6 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,&perline=50" />
+    <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,&perline=50" />
     </a>
 </p>

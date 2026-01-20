@@ -1,8 +1,10 @@
 ## Profile
 
-name : Martin Leinekugel
-mail : mleineku@student.42.fr
-cursus : 42cursus
+<p align="center">
+  <img alt="Martin Leinekugel | 42cursus" src="https://img.shields.io/badge/Martin%20Leinekugel-42cursus-0d1b2a?style=for-the-badge&logo=github&logoColor=neongreen&labelColor=0f1621"/>
+  <br>
+  <img alt="Email" src="https://img.shields.io/badge/mleineku%40student.42.fr-📧-ff0066?style=for-the-badge&labelColor=0f1621&logo=mail.ru&logoColor=ff66cc"/>
+</p>
 
 ---
 

@@ -13,13 +13,15 @@
 
 | Project | Description |
 |---------|-------------|
-| **Libft** | Custom C library including `ft_printf` and `get_next_line`. |
-| **Push_Swap** | Sorting algorithm in C with stacks and limited operations. |
-| **Fract-ol** | Fractal renderer in C using MLX42, visualizing Julia and Mandelbrot sets. |
-| **Minishell** | Simple shell implementation in C, supporting pipelines, redirections, and builtins. |
-| **Philosophers** | Dining philosophers problem with threads and process management in C. |
-| **Cub3D** | 3D game engine in C using raycasting and MLX42. |
-| **ft_irc** | Simple IRC server and client in C++, handling channels, messages, and basic IRC commands. |
+| **C-Lib** | Custom C library including `ft_printf` and `get_next_line`. |
+| **Sort** | Sorting algorithm in C with stacks and limited operations. |
+| **Fract** | Fractal renderer in C using MLX42, visualizing Julia and Mandelbrot sets. |
+| **My shell** | Simple shell implementation in C, supporting pipelines, redirections, and builtins. |
+| **Living Threads** | Dining philosophers problem with threads and process management in C. |
+| **Cub** | 3D game engine in C using raycasting and MLX42. |
+| **My chat** | Simple IRC server and client in C++, handling channels, messages, and basic IRC commands. |
+| **Machine learning** | Simple machine learning prediction program in Python. |
+| **My Rust chat** | Simple client–server communication program in Rust encoding character bit by bit. |
 
 
 ---
@@ -28,6 +30,6 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,&perline=50" />
+    <img src="https://skillicons.dev/icons?i=bash,python,rust,c,cpp,&perline=50" />
     </a>
 </p>

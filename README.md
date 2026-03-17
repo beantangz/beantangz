@@ -20,7 +20,7 @@
 | **Living Threads** | Dining philosophers problem with threads and process management in C. |
 | **Cub** | 3D game engine in C using raycasting and MLX42. |
 | **My chat** | Simple IRC server and client in C++, handling channels, messages, and basic IRC commands. |
-| **Machine learning** | Simple machine learning prediction program in Python. |
+| **Price Prediction** | Simple machine learning prediction program in Python. |
 | **My Rust chat** | Simple client–server communication program in Rust encoding character bit by bit. |
 | **Living website** | System administration project with a small, secure web infrastructure using Docker containers orchestrated with Docker Compose. |
 

@@ -16,11 +16,11 @@
 | **C-Lib** | Custom C library including `ft_printf` and `get_next_line`. |
 | **Sort** | Sorting algorithm in C with stacks and limited operations. |
 | **Fract** | Fractal renderer in C using MLX42, visualizing Julia and Mandelbrot sets. |
-| **My shell** | Simple shell implementation in C, supporting pipelines, redirections, and builtins. |
+| **My shell** | Shell implementation in C, supporting pipelines, redirections, and builtins. |
 | **Living Threads** | Dining philosophers problem with threads and process management in C. |
 | **Cub** | 3D game engine in C using raycasting and MLX42. |
-| **My chat** | Simple IRC server and client in C++, handling channels, messages, and basic IRC commands. |
-| **Price Prediction** | Simple machine learning prediction program in Python. |
+| **My chat** | IRC server and client in C++, handling channels, messages, and basic IRC commands. |
+| **Price Prediction** | Machine learning prediction program in Python. |
 | **My Rust chat** | Simple client–server communication program in Rust encoding character bit by bit. |
 | **Living website** | System administration project with a small, secure web infrastructure using Docker containers orchestrated with Docker Compose. |
 

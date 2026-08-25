@@ -21,6 +21,9 @@
 | **Cub** | 3D game engine in C using raycasting and MLX42. |
 | **My chat** | IRC server and client in C++, handling channels, messages, and basic IRC commands. |
 | **Price Prediction** | Machine learning prediction program in Python. |
+| **FTL Quantum** | Introduction to quantum computing through quantum gates, circuits, and fundamental quantum concepts. |
+| **LLM Structured Output** | Generative AI project focused on structured outputs, function calling, and reliable LLM interactions. |
+| **Lem-in** | Graph optimization project focused on pathfinding, constrained routing, and minimizing movement across a network. |
 | **My Rust chat** | Simple client–server communication program in Rust encoding character bit by bit. |
 | **Living website** | System administration project with a small, secure web infrastructure using Docker containers orchestrated with Docker Compose. |
 

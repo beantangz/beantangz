@@ -25,7 +25,7 @@
 | **LLM Structured Output** | Generative AI project focused on structured outputs, function calling, and reliable LLM interactions. |
 | **Lem-in** | Graph optimization project focused on pathfinding, constrained routing, and minimizing movement across a network. |
 | **My Rust chat** | Simple client–server communication program in Rust encoding character bit by bit. |
-| **Living website** | System administration project with a small, secure web infrastructure using Docker containers orchestrated with Docker Compose. |
+| **Docker-website** | System administration project with a small, secure web infrastructure using Docker containers orchestrated with Docker Compose. |
 
 
 ---
